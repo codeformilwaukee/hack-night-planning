@@ -4,7 +4,9 @@
 
 ## Where
 UWM School of Architecture and Urban Planning
+
 3209 North Maryland Avenue
+
 Milwaukee, Wisconsin 53202
 
 ## When
