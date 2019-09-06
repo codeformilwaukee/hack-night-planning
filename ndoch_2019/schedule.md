@@ -25,7 +25,7 @@ September 21, 2019 - 10:00 AM to 6:00 PM, Networking Event to Follow
 * **10:00 to 10:30** - Registration, Check-In, Networking With Light Breakfast Snacks (Sponsor?)
 * **10:30 to 11:20** - Opening Session, Keynote Speaker Clean Slate Milwaukee
 * **11:30 to 1:00** - Presentations
-* **1:00 to 1:30** - Lunch Break (Sponsor?)
+* **1:00 to 1:30** - Lunch Break w/ conversation led by Shayneill McCloud (Sponsor?)
 * **1:30 to 5:00** - Hack Time
 * **5:10 to 6:00** - Presentations and Closing Session
 * **6:00 to 8:00** - After Event at UWM Gasthaus (Union Basement) (Sponsors?)
@@ -39,9 +39,10 @@ September 21, 2019 - 10:00 AM to 6:00 PM, Networking Event to Follow
 ### Justice Room (LAP N103)
 
 - Cameron Malaki (Milwaukee County Drug Court)
-- Reggie Moore (Milwaukee Office of Violence Prevention)?
-- ACLU Fellow?
-- EX-Incarcerated People Organizing?
+- Reggie Moore (Milwaukee Office of Violence Prevention)? (No response yet) 
+- Joe Peterangelo - Wisconsin Policy Forum
+- ACLU Fellow? (Emma Shakeshaft)- Andrew followed up
+- EX-Incarcerated People Organizing?- Andrew followed up with a contact at JustLeadershiUSA who is involved with this and #CloseMSDF
 
 
 ### Hacking Space
