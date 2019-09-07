@@ -29,8 +29,7 @@ Networking Event to Follow 6:00 PM to Hard Close at 8:00 PM
 ### Main Stage (AUP 170)
 
 * **10:00 to 10:30** - Registration, Check-In, Networking With Light Breakfast Snacks (Sponsor?)
-* **10:30 to 11:20** - Opening Session, Keynote Speaker Clean Slate Milwaukee
-* **11:30 to 1:00** - Presentations
+* **10:30 to 1:00** - Presentations
     * Cameron Malakai (Milwaukee County Drug Court)
     * Joe Peterangelo (Wisconsin Policy Forum)
     * Nadiyah Johnson (Milky Way / Jet Constellations)
@@ -38,8 +37,7 @@ Networking Event to Follow 6:00 PM to Hard Close at 8:00 PM
     * EX-Incarcerated People Organizing? (Andrew followed up with a contact at JustLeadershiUSA who is involved with this and #CloseMSDF)
     * The Community Warehouse?
     * Cameron Malaki (Milwaukee County Drug Court)
-    * Reggie Moore (Milwaukee Office of Violence Prevention)? (No response yet)
-* **1:00 to 1:30** - Lunch Break (Clean Slate Milwaukee) (Sponsors?)
+* **1:00 to 1:30** - Lunch Break (Clean Slate Milwaukee + Another person potentially) (Sponsors?)
 * **1:30 to 5:00** - Hack Time
 * **5:10 to 6:00** - Presentations and Closing Session
 * **6:00 to 8:00** - After Event at UWM Gasthaus (Union Basement) (Sponsors?)
