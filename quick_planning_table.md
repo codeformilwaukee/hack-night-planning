@@ -3,16 +3,16 @@
 This document is meant for the Code for Milwaukee team to be able to track the necessary elements of each Hack Night (currently monthly) and changes made after discussions.
 
 ## 2019
-| Date               | Location    | Speaker             | Food Sponsor       | Entertainment
-| ------------------ | ----------- | ------------------- | ------------------ | ------------
-| June 20, 2019      | UWM Lubar   | Jarrett English     | Meat on the Street | DJ Joaquin
-| July 18, 2019      | UWM Lubar   | Dr. Katie Pritchard | YES Milwaukee      | DJ Joaquin
-| August 18, 2019    | UWM Bolton  | Tarik Moddy         | Julily Kohler and Jet Constellations  | DJ Joaquin
-| September 19, 2019 | Manpower?   | Branden DuPont      | Newaukee           | ?
+| Date               | Location     | Speaker             | Food Sponsor       | Entertainment
+| ------------------ | ------------ | ------------------- | ------------------ | ------------
+| June 20, 2019      | UWM Lubar    | Jarrett English     | Meat on the Street | DJ Joaquin
+| July 18, 2019      | UWM Lubar    | Dr. Katie Pritchard | YES Milwaukee      | DJ Joaquin
+| August 18, 2019    | UWM Bolton   | Tarik Moddy         | Julily Kohler and Jet Constellations  | DJ Joaquin
+| September 19, 2019 | UWM Mitchell | Branden DuPont      | Newance            | ?
 | September 21, 2019 | **National Day of Civic Hacking**
-| October 17, 2019   | ?           | Wisconsin Voices    | ?                  | ?
-| November 21, 2019  | ?           | ?                   | ?                  | ?
-| December 19, 2019  | ?           | ?                   | ?                  | ?
+| October 17, 2019   | ?            | Wisconsin Voices    | ?                  | ?
+| November 21, 2019  | ?            | ?                   | ?                  | ?
+| December 19, 2019  | ?            | ?                   | ?                  | ?
 
 ## 2020
 
