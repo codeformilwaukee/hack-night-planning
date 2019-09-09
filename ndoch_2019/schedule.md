@@ -33,7 +33,6 @@ Networking Event to Follow 6:00 PM to Hard Close at 8:00 PM
     * Cameron Malakai (Milwaukee County Drug Court)
     * Joe Peterangelo (Wisconsin Policy Forum)
     * Nadiyah Johnson (Milky Way / Jet Constellations)
-    * Emma Shashaft (ACLU Fellow)? (Andrew Following Up)
     * EX-Incarcerated People Organizing? (Andrew followed up with a contact at JustLeadershiUSA who is involved with this and #CloseMSDF)
     * The Community Warehouse?
     * Cameron Malaki (Milwaukee County Drug Court)
