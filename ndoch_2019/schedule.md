@@ -33,9 +33,8 @@ Networking Event to Follow 6:00 PM to Hard Close at 8:00 PM
     * Cameron Malakai (Milwaukee County Drug Court)
     * Joe Peterangelo (Wisconsin Policy Forum)
     * Nadiyah Johnson (Milky Way / Jet Constellations)
-    * EX-Incarcerated People Organizing? (Andrew followed up with a contact at JustLeadershiUSA who is involved with this and #CloseMSDF)
+    * EX-Incarcerated People Organizing? (Andrew followed up with a contact at JustLeadershiUSA who is involved with this and #CloseMSDF) -- interested awaiting confirmation
     * The Community Warehouse?
-    * Cameron Malaki (Milwaukee County Drug Court)
 * **1:00 to 1:30** - Lunch Break (Clean Slate Milwaukee + Another person potentially) (Sponsors?)
 * **1:30 to 5:00** - Hack Time
 * **5:10 to 6:00** - Presentations and Closing Session
