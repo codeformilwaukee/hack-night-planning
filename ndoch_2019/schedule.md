@@ -33,7 +33,6 @@ Networking Event to Follow 6:00 PM to Hard Close at 8:00 PM
 * **10:40 to 1:00** - Presentations
     * Cameron Malakai (Milwaukee County Drug Court)
     * Joe Peterangelo (Wisconsin Policy Forum)
-    * One other potential speaker
     * Mark Rice (#CloseMSDF)
 * **1:00 to 1:30** - Lunch Break (Clean Slate Milwaukee + Another person potentially) (Sponsors?)
 * **1:30 to 5:00** - Hack Time
