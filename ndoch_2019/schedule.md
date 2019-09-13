@@ -28,7 +28,8 @@ Networking Event to Follow 6:00 PM to Hard Close at 8:00 PM
 
 ### Main Stage (AUP 170)
 
-* **10:00 to 10:30** - Registration, Check-In, Networking With Light Breakfast Snacks (Sponsor?)
+* **10:00 to 10:25** - Registration, Check-In, Networking With Light Breakfast Snacks 
+* **10:25 to 10:30** - Sponsor Intro (GMC)
 * **10:30 to 10:40** - Nadiyah Johnson on the Milky Way
 * **10:40 to 12:30** - Presentations(first 40 Minutes)
     * Cameron Malakai (Milwaukee County Drug Court)
