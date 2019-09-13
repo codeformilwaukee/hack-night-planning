@@ -29,10 +29,10 @@ Networking Event to Follow 6:00 PM to Hard Close at 8:00 PM
 ### Main Stage (AUP 170)
 
 * **10:00 to 10:30** - Registration, Check-In, Networking With Light Breakfast Snacks (Sponsor?)
-* **10:30 to 1:00** - Presentations
+* **10:30 to 10:40** - Nadiyah Johnson on the Milky Way
+* **10:40 to 1:00** - Presentations
     * Cameron Malakai (Milwaukee County Drug Court)
     * Joe Peterangelo (Wisconsin Policy Forum)
-    * Nadiyah Johnson (Milky Way / Jet Constellations)
     * Andrew contacted two others as well
     * EX-Incarcerated People Organizing? (Andrew followed up with a contact at JustLeadershiUSA who is involved with this and #CloseMSDF) -- interested awaiting confirmation
 * **1:00 to 1:30** - Lunch Break (Clean Slate Milwaukee + Another person potentially) (Sponsors?)
